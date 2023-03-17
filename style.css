@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+}
+
+.container {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -100;
+    opacity: .1;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-decoration-style: regular;
+    letter-spacing: 10px;
+    margin-top: 30PX;
+    font-weight: 100px;
+}
+
+.sm {
+
+    
+}
+
+.sm a {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #222222b2;
+    line-height: 50px;
+    color: #ffffff;
+    font-size: 26px;
+    border-radius: 50%;
+    margin: 0 10px;
+    transition: .3s linear;
+}
+
+.sm a:hover {
+    transform: scale(1.1);
+    background-color: #222222;}
+
+
+.wsdlogo img {
+
+   width: 100px;
+   height: auto;
+}
+
+.content p{
+    font-size: 12px;
+    letter-spacing: 7px;
+    color: #d9d9d9;
+}
+
+.sm {
+    margin-top: 50px;
+}
+
+.linkform {
+    padding-top: 50px;
+
+}
+.linkform a {
+    color:#d9d9d9;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+ 
