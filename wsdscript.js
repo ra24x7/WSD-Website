@@ -1,3 +1,5 @@
+'use strict';
+
 var words = ['Hi i like HTML', 'I also like css', 'Lorem ipsum dolor sit amet', ' consectetur adipiscing elit', 'sed do eiusmod tempor incididunt'],
     part,
     i = 0,
