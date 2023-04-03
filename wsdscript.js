@@ -1,6 +1,4 @@
-'use strict';
-
-var words = ['You Got the Products?', 'We Got Your Sales.'],
+var words = ['Hi i like HTML', 'I also like css', 'Lorem ipsum dolor sit amet', ' consectetur adipiscing elit', 'sed do eiusmod tempor incididunt'],
     part,
     i = 0,
     offset = 0,
