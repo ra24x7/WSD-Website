@@ -99,12 +99,17 @@ h1 {
     font-weight: 100px;
 }
      
-     .content p{
+     .content p {
     font-size: 10px;
     letter-spacing: 5px;
     color: #d9d9d9;
 }
      
-
+   
      
-    }
+.word {
+  margin: auto;
+  color: white;
+  font: 700 normal 2.5em 'tahoma';
+  text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+}
