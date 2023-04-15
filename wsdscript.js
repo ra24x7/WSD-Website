@@ -1,4 +1,4 @@
-const gifLogo = document.getElementById('your-gif-logo-id-here');
+const gifLogo = document.getElementById('.wsdlogo img ');
 const loopCount = 1; // change this value to set the number of loops before stopping
 
 gifLogo.addEventListener('load', function() {
