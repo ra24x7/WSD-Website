@@ -198,20 +198,3 @@ h1 {
          text-transform: none;
 }
      
-.linkform {
- 
-  animation: cta-animation 1s ease-in-out;
-}
-
-@keyframes cta-animation {
-  0% {
-    transform: scale(0);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-   
