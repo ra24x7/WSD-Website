@@ -121,8 +121,7 @@ h1 {
   letter-spacing: .15em; /* Adjust as needed */
   animation-delay: 2s;
   
-    animation: 
-    typing1 3.5s steps(23, end),
+     typing1 3.5s steps(23, end) 2s, /* Add a 2-second delay before starting the typing animation */
     blink-caret1 .75s step-end 23; 
 
 }
