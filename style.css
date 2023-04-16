@@ -155,19 +155,14 @@ h1 {
 .linkform a {
     color:#d9d9d9;
     letter-spacing: 1px;
-    border: 1px solid white;
+    border: 1px solid #fff;
     margin-top:40px;
     padding: 10px 30px 10px 30px;
     text-decoration: none;
     border-radius: 25px;
 }
 
-.word1 {
-  margin: auto;
-  color: white;
-  font: 700 normal 2.5em 'tahoma';
-  text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
-}
+
 
  @media only screen and (max-device-width: 480px) {h1 {
     font-size: 20px;
