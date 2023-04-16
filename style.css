@@ -31,12 +31,14 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-family: 'Montserrat';
+    font-size: 22px;
+
     margin-bottom: 20px;
     text-decoration-style: regular;
     letter-spacing: 10px;
     margin-top: 30PX;
-    font-weight: 100px;
+    font-weight: 300px;
 }
 
 .sm {
