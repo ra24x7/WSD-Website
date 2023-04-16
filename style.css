@@ -135,13 +135,7 @@ h1 {
 }
      
 .linkform {
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-size: 16px;
-  cursor: pointer;
+ 
   animation: cta-animation 1s ease-in-out;
 }
 
