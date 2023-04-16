@@ -119,24 +119,28 @@ h1 {
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
+  
+    animation: 
+    typing1 3.5s steps(23, end),
+    blink-caret1 .75s step-end 23; 
 
 }
-  animation: 
-    typing 3.5s steps(23, end),
-    blink-caret .75s step-end 23;
    
 
 /* The typing effect */
-@keyframes typing {
+@keyframes typing1 {
   from { width: 0 }
   to { width: 100% }
 }
 
 /* The typewriter cursor effect */
-@keyframes blink-caret {
+@keyframes blink-caret1 {
   from, to { border-color: transparent }
   50% { border-color: white; }
 }
+
+
+
 
 
 .sm {
